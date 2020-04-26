@@ -1,0 +1,12 @@
+header{
+   margin: 0 auto;
+   text-align: center;
+   padding-top: 300px;
+}
+
+
+header h1 {
+    margin: 0;
+    font-size: 4rem;
+    font-style: italic;
+}
